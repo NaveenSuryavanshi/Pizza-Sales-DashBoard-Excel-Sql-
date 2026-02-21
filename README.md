@@ -1,7 +1,7 @@
-#🍕 Pizza Sales Performance Dashboard (Power BI / SQL / Excel)
+🍕 Pizza Sales Performance Dashboard (Power BI / SQL / Excel)
 
 
-##📌 Project Overview
+📌 Project Overview
 This project is an interactive Pizza Sales Dashboard built using SQL, Advanced Excel, and Power BI to analyze sales performance, customer ordering behavior, product trends, and revenue insights.
 The dashboard transforms raw transactional pizza sales data into actionable business intelligence, helping stakeholders monitor performance, identify best-selling products, and optimize sales strategies.
 
@@ -17,8 +17,7 @@ The goal of this project is to:
 7. Support pricing and promotional strategy decisions
 
 
-_**📊 Key KPIs**
-_
+_**📊 Key KPIs**_
 1.Total Revenue
 2. Total Orders
 3. Total Pizzas Sold
@@ -28,8 +27,7 @@ _
 
 
 
-_**📈 Dashboard Features**
-_
+_**📈 Dashboard Features**_
 1. 📅 Daily & Monthly Revenue Trend Analysis
 2. ⏰ Order Time Analysis (Peak Hours Identification)
 3. 🍕 Top 5 Best-Selling Pizzas
@@ -40,8 +38,7 @@ _
 8. 🎛 Interactive Filters (Date, Category, Size, Pizza Name)
 
 
-_
-**🛠 Tools & Skills Used**_
+_**🛠 Tools & Skills Used**_
 * SQL – Data extraction, joins, aggregation queries
 * Advanced Excel – Pivot tables, KPI calculations, data cleaning
 * Power BI – Dashboard creation & data visualization
@@ -51,9 +48,8 @@ _
 * KPI Development & Performance Tracking
 
 
-_**🚀 Business Impact
-**_
-This project demonstrates the ability to:
+_**🚀 Business Impact**_
+~ This project demonstrates the ability to:
 - Convert raw transactional data into strategic insights
 - Build data-driven dashboards for business decision-making
 - Analyze sales performance using KPI frameworks
